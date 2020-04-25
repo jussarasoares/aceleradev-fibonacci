@@ -12,7 +12,7 @@
 
 - NodeJS LTS (8.12.0+)
 
-## Rodando os testes
+## Testes
 
 ```sh
 npm test
