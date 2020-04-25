@@ -11,3 +11,9 @@
 ## Requisitos
 
 - NodeJS LTS (8.12.0+)
+
+## Rodando os testes
+
+```sh
+npm test
+```
